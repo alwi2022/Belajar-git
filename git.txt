@@ -1,0 +1,32 @@
+GIT
+Saat pertama kali menggunakan git, kamu perlu melakukan konfigurasi secara global
+git config --global user.name ""
+git config --global user.email ""
+
+mengcek konfigurasi git
+git config  --list
+
+
+Perintah di Git
+
+git init	 Untuk mengimplementasikan git ke dalam projek kita
+git status	 Untuk melihat apakah ada perubahan di dalam git kita
+git add		 Untuk menambahkan file atau folder ke dalam git
+git add.	 Untuk menambahkan semua file atau folder ke dalam git
+git commit -m	 untuk memberi pesan atas perubahan yang terjadi di dalam git
+git log		 Untuk melihat riwayat commit dalam repositori git
+git checkout	 Untuk melihat kembali perubahan sebelumnuya
+code .		 Untuk membuka folder yang sedang Anda jalakan
+
+
+
+
+Perintah di Github
+
+git clone	Untuk membuat salinan dari repositori Github
+git checkout	Untuk berpindah antar (branch) dalam repositori, 
+git checkout -b Shorcut untuk membuat branch
+git add.	Untuk menambahkan semua file atau folder ke dalam git
+git commit -m	Untuk memberi pesan atas perubahan yang terjadi di dalam git
+git push 	Untuk mengirim perubahan dari git lokal ke repositori Github
+

@@ -1,0 +1,15 @@
+Perintah di terminal
+
+
+cd    Untuk berpindah directories (folder)
+cd .. Untuk mundur ke directorires sebelumnya
+pwd   Untuk menampilkan direktori saat ini di mana kamu berada dalam terminal
+ls    Untuk menampilkan daftar file dan folder 
+Mkdir Untuk membuat directories (You can make multiply folder/file using &&. Example: Mkdir Phase1 && Mkdir Phase2)
+touch Untuk membuat file (shortcut to make file in folder Example: Mkdir Phase0 && touch Phase0/week1.txt)
+clear Untuk membersihkan kode terminal
+cp    Untuk mengcopy file (Kalau ingin mengcopy folder Gunakan cp -r)
+mv    Untuk memindahkan atau mengganti nama file/folder
+code . Untuk membuka folder yang sedang Anda jalakan
+rm -rf Untuk Menghapus file (gunakan kata kunci rf hanya untuk menghapus folder)
+ 
