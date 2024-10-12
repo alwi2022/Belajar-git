@@ -30,3 +30,9 @@ git add.	Untuk menambahkan semua file atau folder ke dalam git
 git commit -m	Untuk memberi pesan atas perubahan yang terjadi di dalam git
 git push 	Untuk mengirim perubahan dari git lokal ke repositori Github
 
+Mengupload Repositori yang Sudah Ada
+Jika kamu sudah memiliki repositori lokal dan ingin menguploadnya ke GitHub, langkah-langkahnya adalah sebagai berikut:
+
+Menambahkan Remote Origin: Sama seperti sebelumnya, menambahkan remote ke repositori.
+Mengatur Branch Utama: Mengubah nama branch jika perlu.
+Mengupload ke GitHub: Mengupload repositori ke GitHub.
