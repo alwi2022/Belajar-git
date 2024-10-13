@@ -28,6 +28,7 @@ git checkout	Untuk berpindah antar (branch) dalam repositori,
 git checkout -b Shorcut untuk membuat branch
 git add.	Untuk menambahkan semua file atau folder ke dalam git
 git commit -m	Untuk memberi pesan atas perubahan yang terjadi di dalam git
+git fetch       untuk mengambil perubahan dari repositori remote.
 git push 	Untuk mengirim perubahan dari git lokal ke repositori Github
 
 Mengupload Repositori yang Sudah Ada
